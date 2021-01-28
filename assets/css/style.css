@@ -1,0 +1,66 @@
+.all {
+    width: 1400px;
+    border: 1px solid #666666;
+    margin: auto;
+    padding: 5px 5px 5px 5px;
+    text-align:center; 
+    overflow:visible;
+   }
+.header {
+    border: 1px solid#666666;
+    margin: 0 0 5px 0;
+    padding: 5px 5px 5px 5px;
+}
+.center {
+    text-align: justify;
+    text-indent: 20px;
+    width: 970px;
+    min-height: 600px;
+    border: 1px solid#666666;
+    margin: 0 0 0 210px;
+    position: inherit;
+    float:left;
+    }
+
+.left {
+    text-align: left;
+    min-height: 600px;
+    border: 1px solid#666666;
+    margin: 0 0 0 -1182px;
+    width: 200px;
+    float: left;
+    }
+
+.right {
+    min-height: 600px;
+    text-align: center;
+    border: 1px solid#666666;
+    margin: 0 0 0 0;
+    width: 210px;
+    float: right;
+    }
+.footer {
+    border: 1px solid:666666;
+    text-align: center;
+    clear: both;
+    padding: inherit;
+    }
+li, ol, ul {
+    font-size: 16px;
+    margin: 5px 5px;
+    text-align: justify;
+}
+p {
+    margin: 5px 10px 0px 10px;
+}
+.menu {
+    margin: 20px 0px 20px 5px;
+    font-size: 20px;
+}
+ul,ol {
+    padding: 5px;
+    margin-left: 20px; /* Отступ слева */
+       }
+ol {
+    margin: 5px 5px 0 12px;
+}
